@@ -18,13 +18,19 @@ fn main() {
 fn count_words(content: Vec<char>, word_count: &mut HashMap<String, u32>) {
     // esto esta abstraido a comparacion del modelo hecho en el diagrama, usamos el String type para
     // no tener que preocuparnos de bastantes factores de un buffer inseguro
-    let mut actual_word = &mut String::new();
+    let actual_word = &mut String::new();
 
     for c_idx in 0..content.len() - 1 {
         let c = content.get(c_idx).unwrap();
 
-        if c.is_whitespace() {
+        if c.is_whitespace() || c.is_ascii_punctuation() {
+            if word_count.contains_key(actual_word) {
+                actual_word.clear();
+                continue;
+            }
+
             word_count.insert(actual_word.clone(), 1);
+
             actual_word.clear();
             continue;
         }
