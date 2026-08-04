@@ -1,0 +1,349 @@
+Introduction
+
+By Kostamoinen
+
+Hey everybody! I'm Landeyx and welcome to another guide!
+Today I will tell you about the history of TF2. We will cover the updates and how these have affected TF2 in aswell good and bad ways. If you wanna follow us for more guides you should join our group Order Of Friends
+Rate the guide failry by clicking the thumbs up above this text.
+Thanks,and have fun.
+-GabeN
+The Development Of TF2 (1998-2007)
+TF2 had gone through atleast 3-4 versions before development on the ''real tf2'' started according to Robin Walker.
+Team Fortress 2 started development in 1998 as stated by Gabe Newell in the famous line
+-After 9 years (=1998) in development, hopefully, it will be worth the wait/weight. Thank's and have fun!
+So let's see all the faces of what have could been the game we all know and love
+Team Fortress 2: Brotherhood Of Arms (1998-2001)
+TF2BOA would have been a realistic war simulator where it all depended on strategy, it was set to be released in 2000, and later 2001
+
+The game would have featured real weapons like Famas and other famous weapons.
+There would have been a ''commander class'' that would have a birds eye of view and would instruct other players what to do, there were also a ''officer'' class that would have affected the teams morale, the higher the morale, the faster and better the team were,
+if an officer died, the morale would have reset to 0.
+A game trailer was shown in 1998
+
+The game would have featured real weapons like Famas and other famous weapons.
+There would have been a ''commander class'' that would have a birds eye of view and would instruct other players what to do, there were also a ''officer'' class that would have affected the teams morale, the higher the morale, the faster and better the team were,
+if an officer died, the morale would have reset to 0.
+A game trailer was shown in 1998
+
+The realistic scheme was scrapped because you couldn't see the difference between all the 12 classes
+
+Archived Website
+Team Fortress 2: Invasion (2001-2004)
+In late 2003, when the source tree for Half-Life 2 was leaked by a german hacker, who later was tricked by Gaben to work at Valve because of his hacking skills, later got arrested by the german police/FBI.
+Along with some of the files from Half-Life 2, there were some files about a sequel to Team Fortress Classic called
+Team Fortress 2: Invasion,
+Invasion was about two teams, humans VS aliens in a sci-fi space world.
+One major gameplay mechanic in TF2I was to collecting resources. Resources would have been gained by: killing people, destroying buildings and more... The resources would have gone to a ''resource-bank'' with that you could build and upgrade buildings.
+A recreation of the game with the files that was leaked back in 2003 has been made by
+Team GabeN
+
+Development On The ''Real'' TF2 (2004-2007)
+After realising that the two previous versions wasn't the best way to carry the series on, Valve decided to make a cartoony, more in the direction of TFC, but for something the new modern era could catch an eye on. But the design of TF2 we all know and love, didn't arrive instantly!
+Concept Art
+Scout
+
+Scout Weapons [/h1]
+In the beginning, the scout would have used an SMG as his primary weapon
+(can be seen in concept art and trailer 1)
+The medic and the sniper was also given a SMG, the sniper were the only one to still have a SMG in the final game.
+
+Later in development, the SMG was replaced by a nailgun like in TFC. And then AGAIN, the nailgun was replaced by the scattergun we all know and love. The nailguns backpack image is still left in the games files.
+
+
+Here is the former Valve employee's album, I would recommend checking out his other work too: https://www.drewwolf.com/tf2alt/
+
+A little note about this concept artwork: these female versions were made to bring some variety to the classes, which later came in the form of hats and weapons. I personally would've loved to see these female versions of our beloved classes.
+
+Also notice how Pyro isn't with them.
+
+The Release of TF2 (10th October, 2007)
+Team Fortress 2 was first released in the Orange Box (together with Half-Life 2, Portal, etc) on 18 October 2007. It was the next part of Team Fortress Classic.
+Team Fortress 2 wasn't that popular then. Team Fortress 2 came from the Team Fortress mod wich was released for Quake. In the beginning the charcaters weren't as refined as now as you can see...
+
+
+But still, the game was loved for his inovative gameplay for the time and funny wacky physics. It was gonna be a ww2 simulator but Gaben himself said it would be better to make it a fun game where people could just pop in and out to have fun. And so it happened, after a gigantic time of waiting, like always. When it was released, it already had a big community behind it from the first game, Team Fortress. And even if it was paid, unlike now days, people still went bonkers for it.
+The Gold Rush Update (February 24 2008)
+The Gold Rush update was the first major update of TF2. After half a year the characters of TF2 looked like they are looking right now. The update was consisting of the map "Goldrush",the first meet the team videos,non-stock weapons and achievements! We couldn't live without that now,could we?
+
+So,without this update we would always live with stock weapons.
+
+But let us look each update and see what they did for the tf2 game.
+The Gold Rush added, for example, the gold rush map like the name said. It was the first payload map for TF2, and it was given as ''a map that specifically focuses on pacing so that the player feels like they are part of an overall campaign by the team''. It is still loved by everyone and used alot by competetive, proving his timeless value.
+
+
+
+But let us look at the star of the show today:
+Yep, the Medic was the first class to get an update. Many people think this was just a random thing that Gaben choose because he liked the idea. But the real reason was that the Medic was considered by players a very boring and passive class. It was actually the least played class before the update. After the update, it was the third most played class. Valve obviously didnt want a class as important as the medic to be left out. And like said before it added achivements to get the NEW MEDIC WEAPONS! The weapons were the Blutsauger, the Kritzkrieg and the Ubersaw. This gave the players one more reason to play medic, just so you could get the new achivements and the new weapons. But many new players decided to cheat by going to the console and getting all the achivements. They were rightfully punished by not getting a worthless hat in a future update.
+
+But the weapons were always equal. The Blutzauger innitially didnt do critical hits, ever. It couldnt do critical hits like that rocket launcher from space. It was changed to give a penalty on the life regenerated. The Kritzkrig only charged 10% faster than the stock. Now its 25%. And the ubersaw was only unlocked after getting 36 achivements. It has been reduced due to the sheer dificulty.
+The Pyro Update (May 24, 2008)
+The Pyro update was a great update for TF2. It added the the Source Engine SDK,in wich people could make their own maps. Some computer-geniuses (or nerds) already found out about this and produced their own TF2 maps. Valve released some of those together with update.
+The Update consisted out of:
+-The Community maps CP_Fastlane and CTF_Turbine
+-The Pyro Weapons,Backburner,Axtinguisher and Flare Gun
+-HADOUKEN! The first kill taunt.
+-The Airblast! Damn you trollers!
+-And the "Meet The Sniper" Video
+
+You damn camper
+
+Here's a curiosity for you. Did you know the Pyro update was the first update that utilized the technique of slowly revealing content over a period of time before release. 13 days before the update there was a ''teaser'' that hinted for the changes, the new Meet the Sniper and the new weapon, the axtinguisher. A link that was given took us to the concept art of the astinguisher. Shortly after that, the newly created blog explained in detail the new flare gun concept. After that all three weapons were revealed, along with the new 35 achivements and the new sniper video.
+
+The airblast was added in this update. The reason was that before people though that the Pyro was either a too direct class (Spawn, burn, die, repeat) or that it was too vulnerable (the pyro wasnt a counter to any class in specific at the time but every long distance class could easily kill him). It proved to be a much needed addiction to the pyro, and nowdays most players couldnt play pyro without it.
+
+The new weapons were also way needed for pyro to change the already very stale gameplay of W+M1. The backburner, while very different at the time of the introduction, in which you had crits when you hit them on the back BUT you couldnt airblast, changed with time to get a more expansive playstyle, taking out the No airblast penalty and adding in only a much bigger cost of airblasting. This was also the introduction of the for so long hated Flare gun and Axtinguisher combos, tho it wouldnt be fully realized until the release of the degreaser much latter. On a more unknow side, this was the update that added personalized kill icons for non-stock weapons.
+
+But now for the maps! The two new ones added were Turbine and Fastlane.Turbine, a pub stomper favorite, and fastlane, a bored player favorite. These were the first community maps ever added to the game, opening a new path for valve lazyness. They were choosen because of theyr outstanding quality compared to the rest. This leads the way for my last curiosity: Did you know that in certain points in Fastlane, it actually looks like the map is floating. This is because of an error with the construction of the skybox.
+The Heavy Update (August 19, 2008)
+The Heavy Update was an even bigger update than the Pyro Update.
+It introduced the gamemode "Arena",aswell as the Sandvich!
+
+Nom nom nom,nom nom
+The Update also consisted out of:
+-The community made map,CP_Steel (Lazy Valve)
+-The KGB (Killing Gloves of Boxing)
+-Badwater Basin (Okay I take my words back,it's a truly awesome map)
+-Natascha (Sasha will be jealous!)
+-Arena brought 5 new maps with it,two of them are gone in the Valve Map roundup but are still used in communty servers. These maps are: Lumberyard,Ravine,Well,Granary and Badlands.)
+-Meet The Sandvich
+
+
+So lets look at this update into a bit more detail:
+
+
+Day 1
+Day 1 gave us the famous CP_Steel, one of the most complex and confusing maps of the tf2 map catalog. The idea that Valve gave behind this map was that ''capturing a control point modified the layout of the map, openning and closing routes for both teams''. It was also given the idea that the vast variety of choices would keep the map interesting for a long time, something that didnt work out so well because, has everyone knows, everyone just caps every point and then caps last.
+
+
+Day 2
+Day 2 introduced the KGB (not related to the Real Life KGB, not related to Real Life chicken killer). Ever since this was introduced in hounor of the Russians wins in Rocky I, II, III, IV, V, VI and so on, it has been a favourite between all fans of Meele Heavy. But here's something not everyone knows. Deep in development, the KGB was intended to give the Heavy and his teammates, on kill, a +50 health and a 10% chance of critical hits (slightly bigger than normal). The downside is that he would taunt after kill. While this mechanic didnt enter the game, obviously, the taunt stayed. The taunt is actually a reference to the ''Final Boss'' of one of my favourite videogames of all time (Crazed here), which is Mr. Sandman main attack from Punch Out. Another thing that happened in Day 2 was the addiction of Achievments, something we all expected honestly so no suprise there.
+
+Day 3
+ Everyone favourite payload map, Muselk favourite rocket jumping map, Crazed most hatted map, its Badwater Basin! Ever since it was introduced, everyone has loved it for his mixture of high and low ground, attacker and defender advantage, and gibus with unusuals.
+
+
+The Scout Update (February 24, 2009)
+"Go eat a salad!"
+
+The next update was the scout update,the update consisted out of 4 mayor things:
+
+The Sandman
+
+Boink!
+
+The sandman,a loved weapon by many scouts (including me)
+At the time however,the sandman had a very big con on it.
+You couldn't double jump.
+WHAT?
+A SCOUT WHO CAN'T DOUBLE JUMP?
+The sandman was hardly accepted because of this,and Volvo got some hate on them.
+But they patched it later,resulting in it to be loved by everyone.
+
+Watchtower And Junction
+
+
+More community-created maps,shouldn't tell you that much about it
+
+BONK! Atomic Punch
+
+Bonk! contains several hundred times the daily recommended allowance of sugar. After the beneficial effects of the radiation wear off, drinkers have reported experiencing feelings of lethargy that can last several seconds. Reading this sentence absolves Bonk! of any liability for killing sprees inspired by or deaths resulting from the ingestion of Bonk! Enjoy Bonk! responsibly… Or by the case!
+
+The Force-A-Nature
+
+Grass grows,bird fly,sun shines,and brother...
+
+The Force-A-Nature,allowing you to go airborne,is a weapon which is still frequently used by many scouts.
+
+
+
+
+
+
+
+
+
+The Sniper VS. Spy Update (May 21, 2009)
+
+God save the.... *gets stabbed*
+
+Contenst of the update
+
+The Huntsman
+
+Stab stab stab
+
+The huntsman,a primitive bow used by prehistorical warriors to pin dinosaurs down.
+Although it's scientifically proven that...
+*Buttstaber comes in*
+SHUT UP!
+YOU AREN'T A SCIENTIST
+*Landeyx begins to cry*
+Anyways,the huntsman has the unique stab taunt,stunning enemies and killing them instantly,it also has an almost immediate kill when you headshot with it and it's used by the real battle-snipers.
+*Buttstaber Breaks in the room*
+And it also has the annoying projectile like arrow that makes it way easier that it should to randomly headshot me when Im invisible
+
+The Razorback
+
+Use Ambassador to counter
+
+Sneaky spies wanna stab you in the back? You have a razorback!
+*Bzzzzz*
+"Merdre"
+*Spy main Buttstaber shoots away*
+''And then God created the Pistol''
+
+The Dead Ringer
+
+Not dead yet
+
+The Dead Ringer,the weapon that has died and was revived more than Jesus.
+
+The Cloak And Dagger
+
+No,not the heroes from Marvel
+
+Being forever invisible is fun,right? (It would be if it wasnt so useless)
+
+The Ambassador
+
+Put two wheels under this thing and it's a cannon
+
+The ambassador is able to do a 102 crit headshot.
+Nuff said.
+
+Jarate
+
+Piss
+
+Throw this jar of piss at enemies to let them taste mini-crits and you-know-what-more-of-that-yellow-stuff-that-comes-out-of-that-stick-that-just-hangs-in-front-of-you,jarated people will get critted with the bushwacka.
+*Buttstaber gets out of cage somehow*
+And no one can forget that jarate is not the name of the weapon, the weapon is just a jar of piss, jarate is the act of throwing a jar of piss, an ancient chinese art that was passed down the Mann Co Family line until one guy decided to sell it for everyone and ruined family reunions forever.
+
+Hats
+
+Oh ye,those things
+
+Well that's the only thing we were missing,right?
+
+
+
+
+The Classless Update (August 13, 2009)
+The classless update,one of the most important updates in TF2 history.
+Here are the mayor contents of the update:
+
+Eighteen new hats!
+
+This is the real deal
+
+King of the hill
+
+Not that there is a hill or something
+
+Well,the update had some little tweaks and map remakes,but we won't cover that here.
+The First Halloween Special! (October 29, 2009)
+
+Sacks scary?
+
+The first halloween special wasn't that big of a deal,you had the candy pumpkins,the "Thriller" taunt,the sacks and some halloween-themed maps.
+The WAR! Update (December 17, 2009)
+
+You are just an English man with a dress!
+
+One of the most known updates of TF2 is the WAR! Update.
+It featured many new weapons for both the soldier and the demoman,and it was the goal to choose team soldier or team demoman. The winner who has killed the most demomen/soldiers would receive a 4th prize for that class. That was the soldier
+
+Here are the mayor contents of the update:
+
+For the Demoman:
+
+
+The Eyelander
+
+Heads...
+
+The Chargin' Targe
+
+Chargin' into bodies
+
+The Scottish Resistance
+
+Resisting your face
+
+
+For the Soldier:
+
+
+The Direct Hit
+
+No,you can't use the scope
+
+The Equalizer (for ♥♥♥♥♥♥♥)
+
+Run,run,run!
+
+The Equalizer (for non-♥♥♥♥♥♥♥)
+
+Fight,fight,fight!
+
+The Buff Banner
+
+Charge!
+
+The Gunboats
+
+I don't have a joke for this one
+
+
+
+
+
+
+
+The 119th Update (April 29, 2010)
+
+Update page
+
+The 119th update was an update which celebrated the 119th update! (That's alot of update in one sentence)
+
+It included the following:
+
+The Mercenary Badges
+
+
+These badges showed when you started playing TF2. Nothing much to it otherwise.
+
+
+The Mac Update (June 10, 2010)
+Update Page
+
+
+
+The next update in the line was the Mac update! TF2 was finally available on OS X.
+People who played on a Mac before August 16, 2010 would receive free pair of earbuds for all the classes. The mac update also brought us the training mode.
+
+The Engineer Update (July 8, 2010)
+
+Aw shucks
+
+Here are the mayor contents of the update:
+
+The Wrangler
+
+No,sniper,no
+
+Thunder Mountain
+
+It hurts my ears
+
+Hightower
+Thank you!
+Thanks to:
+The Crazed Buttstaber
+For being my support trough hard times
+
+Fluffe
+For his awesome TF2 beta and pre-release writing
+
+The TF2 Team
+For the information on all the updates
